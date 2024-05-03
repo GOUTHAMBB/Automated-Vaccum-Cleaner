@@ -31,7 +31,7 @@ To use the Automatic Vacuum Cleaner:
 Ensure you have the Arduino IDE installed on your computer. Download the required libraries for the project and include them in your Arduino sketch.
 
 ## Circuit Diagram
-![Circuit Diagram](image_url_circuit_diagram)
+![Circuit Diagram](https://github.com/GOUTHAMBB/Communication-systems/blob/main/Circuit-Diagram.png)
 
 ## Flowchart
 Include a flowchart image or description outlining the logic and sequence of operations.
@@ -40,7 +40,7 @@ Include a flowchart image or description outlining the logic and sequence of ope
 [Link to Tinkercad Simulation](https://www.tinkercad.com/things/bPYJ42fzbs7?sharecode=Y6ykj1jGTnzB-C_Zt2Ijp7It2USmbDMwXDJyY5Mo6cQ)
 
 ## Hardware Image
-![Hardware Setup](https://github.com/GOUTHAMBB/Communication-systems/blob/main/final prototype.jpg)
+![Final prototype Image](https://github.com/GOUTHAMBB/Communication-systems/blob/main/final%20prototype.jpg)
 
 ## Contributors
 -Goutham B Bhandari
