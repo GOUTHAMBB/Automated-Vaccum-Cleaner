@@ -35,7 +35,7 @@ Ensure you have the Arduino IDE installed on your computer. Download the require
 
 ## Flowchart
 Include a flowchart image or description outlining the logic and sequence of operations.
-(https://github.com/GOUTHAMBB/Communication-systems/blob/main/flowchart.jpeg)
+  ![Flowchart](https://github.com/GOUTHAMBB/Communication-systems/blob/main/flowchart.jpeg)
 ## Simulation
 [Link to Tinkercad Simulation](https://www.tinkercad.com/things/bPYJ42fzbs7?sharecode=Y6ykj1jGTnzB-C_Zt2Ijp7It2USmbDMwXDJyY5Mo6cQ)
 
